@@ -1,0 +1,6 @@
+.black-page {
+  background-color: black;
+  color: white; /* Optional: Set text color to white for better visibility */
+  height: 100vh; /* Optional: Set height to fill the entire viewport */
+}
+
